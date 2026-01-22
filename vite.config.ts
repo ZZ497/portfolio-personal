@@ -20,6 +20,6 @@ export default defineConfig(({ mode }) => {
         }
       },
       // Poner de base el repositorio
-      base: '/portfolio-personal.io/', 
+      base: '/portafolio-personal/', 
     };
 });
